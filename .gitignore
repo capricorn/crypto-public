@@ -1,0 +1,7 @@
+log/
+*test.py
+*.txt
+*.json
+test/
+*.csv
+data/
